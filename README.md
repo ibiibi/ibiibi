@@ -1,33 +1,33 @@
-jj- 👋 Hi, I’m @ibiibi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+line
+➪ 𝙽𝙰𝙼𝙴 :- RAMTA HACKER
+line
 
-<!---
-ibiibi/ibiibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-apt-get update -y
+☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁
+line
 
-apt-get upgrade -y
+👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- 𝙼𝚛. 𝙱𝙴𝚃𝙰 & 𝙼𝚛. 𝙱𝙸𝙺𝙸 & 𝙼𝚛. 𝙳𝙴𝚅𝙸𝙻 & 𝚀𝚄𝙴𝙴𝙽-𝙲𝚈𝙱𝙴𝚁-𝚆𝙾𝚁𝙻𝙳 & 𝙼𝚛. 𝙵𝙰𝚁𝙰𝙱𝙸
+line
 
-pkg install python -y
+☞︎︎︎ 𝙸𝙽𝚂𝙻𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
+line
 
-pkg install python2 -y
+🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
+line
 
-pkg install git -y
+➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- M.IBRAHIM PRINCE
+line
 
-pip install lolcat
+➪𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙵𝙰𝙶𝙴 :- ibiibi
+line
 
-git clone https://github.com/noob-hackers/grabcam
+➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :-  RAMTA 𝚃𝙴𝚁𝙼𝚄𝚇 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚆𝙾𝚁𝙻𝙳
+line
 
-cd $HOME
+➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- 𝙼.IBRAHIM6919
+line
 
-ls
+➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- 𝙼.Ibiibi334
+line
 
-cd grabcam
-
-ls
-
-bash grabcam.sh
+➪ 𝙵𝚄𝙽 𝙵𝙰𝙲𝚃 ** 𝙸 𝚃𝙷𝙸𝙽𝙺 𝙸 𝙰𝙼 𝙵𝚄𝙽𝙽𝚈**
+line
